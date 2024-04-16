@@ -1,0 +1,59 @@
+#MainRigisterDiv{
+  
+    width: 35%;
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+    
+}
+#MainRigisterDiv header{
+    text-align: center;
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 32px;   
+ }
+ .RegisterForm{
+
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.RegisterForm .Register{
+    width: 100%;
+    background-color: rgb(53, 52, 52);
+    text-align: center;
+    height: 43px;
+    color: white;
+    margin-top: 25px;
+    font-family: Candara;
+    font-weight: 1000;
+    font-size: 15px;
+    cursor: pointer;
+   
+}
+.RegisterForm input{
+    width: 94%;
+    padding: 10px;
+    left: 0;
+    margin-top: 5px;
+    border: 1PX solid rgb(218, 214, 214);
+}
+
+.RegisterForm label{
+    text-decoration: none;
+    gap: 20px;
+    font-family: Candara;
+    color: black;
+    font-weight: 500;
+    
+}
+.RegisterForm a{
+    text-decoration: none;
+    gap: 20px;
+    font-family: Candara;
+    color: black;
+    font-weight: 500;
+    margin-left: 145px;
+    text-align: center;
+    
+}
