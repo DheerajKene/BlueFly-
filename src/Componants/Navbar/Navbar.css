@@ -60,11 +60,11 @@
   
 }
 #Search-Box{
-    border: 1px solid rgb(190, 188, 188);
+    border: 1px solid rgb(239, 235, 235);
     height: 70%;
     width: 70%;
-    display: grid;
-    grid-template-columns: 30px 268px 30px;
+    display: flex;
+    justify-content: space-evenly;
     
 }
 

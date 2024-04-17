@@ -32,7 +32,10 @@ const Register = () => {
     let Password= e.target[3].value;
     let Confirm_Password= e.target[4].value;
 
-    if(Password == Confirm_Password){
+    if((firstName.length == 0) && (Password.length == 0)){
+      alert("Please enter correct crediantials");
+
+    }else if(Password == Confirm_Password){
       let UserData = {
         FirstName: firstName,
         LasteName: lastName,

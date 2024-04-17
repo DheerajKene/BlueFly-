@@ -457,7 +457,7 @@ const Navbar = () => {
                 </li>
                 <li>
                     {/* ---------------------------Home------------------------ */}
-                    <a href="./Home">HOME</a>
+                    <a href="/">HOME</a>
                     <div className='mega-box'>
                         <div className='content'>
                             {/* <div className="rowimg">

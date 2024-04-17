@@ -21,16 +21,22 @@ const Login = () => {
   let email = e.target[0].value;
   let pass = e.target[1].value;
 
-  let narr = data.filter(function(ele, i){
-    return ((ele.email === email) && (ele.password === pass));
-  })
+  if((email.length == 0) && (pass.length == 0)){
+    alert("Please enter correct crediantials");
 
-  if(narr.length > 0){
-    alert("Login Successful...")
-    window.location.href = './Home'
-  }
-  else{
-    alert("Check Crediantials..!!")
+  }else{
+    let narr = data.filter(function(ele, i){
+    return ((ele.email === email) && (ele.password === pass));
+  });
+
+    if(narr.length > 0){
+      alert("Login Successful...")
+      window.location.href = '/'
+    }
+    else{
+      alert("Check Crediantials..!!")
+    }
+  
   }
     
 }
