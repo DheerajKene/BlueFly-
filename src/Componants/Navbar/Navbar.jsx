@@ -37,7 +37,7 @@ const Navbar = () => {
                 <button onClick={HandleCancleSearch}>❌</button>
             </div>
             <div className='sidebar'>
-                <a href="./Login"alt="Login">
+                <a href="/Login"alt="Login">
                     <img src="https://pluspng.com/img-png/png-user-icon-man-person-user-icon-512.png" alt="" />
                 </a>
                 <a href="">
