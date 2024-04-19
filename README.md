@@ -18,7 +18,7 @@ Bluefly is the online shopping destination for the style obsessed. Shop thousand
 
 <h3> Deployment link </h3>
 
-<a href="[(https://effortless-blini-633127.netlify.app/)](https://effortless-blini-633127.netlify.app/)"
+<a href="(https://blue-fly-nine.vercel.app/)](https://blue-fly-nine.vercel.app/)"
  
 <hr>
 <h3> Tech Stack </h3>
@@ -66,7 +66,7 @@ Bluefly is the online shopping destination for the style obsessed. Shop thousand
  <h3>Contributers </h3>
  <ol>
   
-  <li>Dheeraj Kene: [https://github.com/kakashi10-23](https://github.com/DheerajKene) </li>
+  <li>Dheeraj Kene:(https://github.com/DheerajKene) </li>
   
  </ol>
 
