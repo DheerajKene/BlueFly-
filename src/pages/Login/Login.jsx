@@ -34,7 +34,8 @@ const Login = () => {
       window.location.href = '/'
     }
     else{
-      alert("Check Crediantials..!!")
+      alert("Check Crediantials..!!");
+      alert("If you are not logged in, Please create your account first.");
     }
   
   }

@@ -5,8 +5,8 @@ const Links = () => {
   return (
     <div>
         <Link to={'./'}></Link>
-        <Link to={'./Login'}></Link>
-        <Link to={'./Register'}></Link>
+        <Link to={'/Login'}></Link>
+        <Link to={'/Register'}></Link>
     </div>
   )
 }
