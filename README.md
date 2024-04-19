@@ -27,7 +27,7 @@ Bluefly is the online shopping destination for the style obsessed. Shop thousand
 <ol>
  <li>HTML</li> 
  <li>CSS</li> 
- <li>RJavaScript</li> 
+ <li>JavaScript</li> 
  <li>React</li> 
 </ol>
 
